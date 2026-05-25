@@ -1,5 +1,6 @@
 # COFFEE-SHOP-SALES-ANALYSIS
 ☕ Coffee Shop Sales Analysis Dashboard:
+<img width="1600" height="901" alt="image" src="https://github.com/user-attachments/assets/f7bd7d01-91ec-4cbe-83b9-b9979ae6afe2" />
 
 📌 Project Overview
 This project focuses on analyzing retail sales data of a Coffee Shop to uncover actionable business insights that can improve operational efficiency, customer experience, and overall sales performance.
@@ -110,6 +111,12 @@ Add forecasting models
 Perform customer segmentation
 Add SQL-based analysis
 Create automated refresh pipelines
+
+KEY BUSINESS RECOMMENDATIONS
+Based on analysis:
+1. Schedule additional staff 8–10am daily — peak hour window
+2. Prioritise Barista Espresso inventory — highest revenue SKU
+3. Hell's Kitchen model replication — highest footfall store
 
 👩‍💻 Author
 Ayushi Singh
